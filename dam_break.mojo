@@ -73,4 +73,3 @@ fn main():
   volume_fraction[0] = 5
   
   print(volume_fraction[0])
-  
